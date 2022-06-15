@@ -1,0 +1,85 @@
+.list {
+  display: inline-block;
+  text-align: end;
+  width: 1000px;
+}
+
+.item-0 {
+  list-style-type: none;
+  display: inline-block;
+  width: 91px
+}
+
+.item-1 {
+  list-style-type: none;
+  display: inline-block;
+  width: 150px;
+}
+
+.item-2 {
+  list-style-type: none;
+  display: inline-block;
+  width: 84px
+}
+
+.item-3 {
+  list-style-type: none;
+  display: inline-block;
+  width: 144px
+}
+
+.item-4 {
+  list-style-type: none;
+  display: inline-block;
+  width: 106px
+}
+
+
+.link {
+  background-color: #458FF6;
+  border-radius: 55px;
+  color: white;
+  text-decoration: none;
+}
+
+.image{
+  vertical-align: middle;
+}
+
+.box{
+  display: inline-block;
+  width: 500px;
+} 
+
+.blood{
+  display: inline-block;
+}
+
+
+
+.boxx{
+  text-align: center;
+}
+
+
+.hr{
+  width: 60px;
+}
+
+.boxes{
+  display: inline-block;
+  width: 300px;
+}
+
+
+.listlast{
+  list-style-type: none;
+}
+
+.div-mini {
+  vertical-align: middle;
+}
+
+.div-img {
+  vertical-align: middle;
+}
